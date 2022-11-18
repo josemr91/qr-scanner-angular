@@ -1,7 +1,7 @@
 # qr-scanner-angular
-Escaner QR para Angular
+Escáner QR para Angular
 
-1 - Instalar libreria: qr-scanner
+1 - Instalar librería: qr-scanner
 npm install --save qr-scanner
 
 2 - Verificar en package.json en dependencies que se encuentra "qr-scanner"
